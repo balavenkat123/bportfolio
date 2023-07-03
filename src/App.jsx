@@ -1,5 +1,6 @@
 import React from 'react'
 import NavBar from "./components/NavBar"
+import Home from "./components/Home"
 import './App.css'
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
   return (
     <div>
       <NavBar/>
-      {/* <Home/> */}
+      <Home/>
   </div>
     
   )
