@@ -10,7 +10,7 @@ const SocialLinks = () => {
             <li className='flex justify-between items-center w-40 h-14 px-4 bg-gray-200 ml-[-100px] hover:ml-[-5px] duration-200'>
                  <a href="" className='flex justify-between items-center w-full text-black'>                   
                     <>
-                        LinkedIn<FaLinkedin size={30} color='#0077b5'/>
+                        LinkedIn<FaLinkedin size={40} color='#0077b5'/>
                     </>
                  </a>
              </li>
